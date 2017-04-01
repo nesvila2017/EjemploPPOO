@@ -5,6 +5,8 @@
  */
 package javaappgithub;
 
+import javax.swing.JOptionPane;
+
 /**
  *
  * @author Wilter Villar
@@ -21,6 +23,8 @@ public class JavaAppGitHub {
         System.out.println("Hola Mundo UT");
         System.out.println("Hola Mundo UT");
         System.out.println("Hola Mundo UT");
+        JOptionPane.showMessageDialog(null, "Hola a todos", "Mensaje", 0);
+        
         System.out.println("Hola Curso de Profundizacion en programación orientada a objetos");
     }
     
