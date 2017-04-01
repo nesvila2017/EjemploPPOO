@@ -18,6 +18,10 @@ public class JavaAppGitHub {
         // TODO code application logic here
         
         System.out.println("Hola Mundo UT");
+        System.out.println("Hola Mundo UT");
+        System.out.println("Hola Mundo UT");
+        System.out.println("Hola Mundo UT");
+        System.out.println("Hola Curso de Profundizacion en programación orientada a objetos");
     }
     
 }
